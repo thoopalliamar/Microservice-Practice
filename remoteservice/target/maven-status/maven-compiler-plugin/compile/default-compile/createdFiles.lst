@@ -1,6 +1,0 @@
-com/stackroute/moviecloud/cloudservices/CloudServicesApplication.class
-com/stackroute/moviecloud/cloudservices/domain/User.class
-com/stackroute/moviecloud/cloudservices/controller/UserController.class
-com/stackroute/moviecloud/cloudservices/services/CloudServicesImpl.class
-com/stackroute/moviecloud/cloudservices/services/CloudServices.class
-com/stackroute/moviecloud/cloudservices/domain/User$UserBuilder.class
