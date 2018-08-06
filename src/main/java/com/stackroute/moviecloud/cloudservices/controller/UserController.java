@@ -29,7 +29,7 @@ public class UserController {
 		return new ResponseEntity<String>(controllersave, HttpStatus.OK);
 	}
 	
-	@RequestMapping(value = "/movie", method = RequestMethod.POST, produces = { "application/json" })
+	@RequestMapping(value = "/movie", method = RequestMethod.GET, produces = { "application/json" })
 	public ResponseEntity<String> getUserController() {
 		String controllerget = cloudservice.getUsers();
 		
