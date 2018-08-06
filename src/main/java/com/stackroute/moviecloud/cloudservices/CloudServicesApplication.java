@@ -1,4 +1,4 @@
-package com.stackroute.moviecloud.CloudServices;
+package com.stackroute.moviecloud.cloudservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
